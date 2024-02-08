@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jaimini</h1>
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning <b>Node js</b>
 
 - 📫 How to reach me **jaiminiraval123@gmail.com**
 
